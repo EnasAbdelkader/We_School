@@ -17,6 +17,11 @@ nav{
     
 }
 #section2{
-    padding: 150px;
+    padding: 20px;
 }
-
+.sec1 img{
+    max-width: 100%;
+}
+.carousel-item img{
+    max-width: 100%;
+}
